@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>UserManagementSystem</name>
-	<comment></comment>
+	<name>OrderManagementSystem</name>
+	<comment>Project OrderManagementSystem created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -11,19 +11,18 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>org.hibernate.eclipse.console.hibernateBuilder</name>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
-			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>org.eclipse.m2e.core.maven2Nature</nature>
-		<nature>org.hibernate.eclipse.console.hibernateNature</nature>
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
 </projectDescription>
